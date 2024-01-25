@@ -14,7 +14,7 @@
 
 ## 使用說明
 
-1. 確保您的系統已安裝 .NET Core 3.1 或以上版本。
+1. 確保您的系統已安裝 .NET Core 3.1 。
 2. 下載並解壓程式碼到您的本機開發環境。
 3. 開啟終端機，導航至程式碼所在目錄。
 4. 執行 `./Crawler_Service/bin/Debug/netcoreapp3.1/Crawler_Service.exe` 啟動服務。
