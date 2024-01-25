@@ -1,0 +1,215 @@
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\appsettings.json
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.exe
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.deps.json
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.runtimeconfig.json
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.runtimeconfig.dev.json
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.pdb
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csprojAssemblyReference.cache
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.AssemblyInfoInputs.cache
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.AssemblyInfo.cs
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.CoreCompileInputs.cache
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.CopyComplete
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.pdb
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.genruntimeconfig.cache
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\AngleSharp.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.exe
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.deps.json
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.runtimeconfig.json
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.runtimeconfig.dev.json
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.pdb
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\AngleSharp.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.AssemblyReference.cache
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.AssemblyInfoInputs.cache
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.AssemblyInfo.cs
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.CoreCompileInputs.cache
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.CopyComplete
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.dll
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.pdb
+E:\BK_Code\作品\工具_TOOL開發_2021\Crawler_Second\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.genruntimeconfig.cache
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.exe
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.deps.json
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.runtimeconfig.json
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.runtimeconfig.dev.json
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.pdb
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\AngleSharp.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.AssemblyReference.cache
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.AssemblyInfoInputs.cache
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.AssemblyInfo.cs
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.CoreCompileInputs.cache
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.CopyComplete
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.dll
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.pdb
+G:\Code\PD_DEMO\Crawler\Net Core\Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.genruntimeconfig.cache
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.exe
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.deps.json
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.runtimeconfig.json
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.runtimeconfig.dev.json
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Crawler_Service.pdb
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\AngleSharp.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.AssemblyReference.cache
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.AssemblyInfoInputs.cache
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.AssemblyInfo.cs
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.CoreCompileInputs.cache
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.csproj.CopyComplete
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.dll
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.pdb
+G:\Code\PD_DEMO\Crawler\Net Core\DEMO_Crawler_Service\Crawler_Service\obj\Debug\netcoreapp3.1\Crawler_Service.genruntimeconfig.cache
